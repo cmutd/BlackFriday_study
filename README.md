@@ -77,11 +77,11 @@ import pydotplus
 
 ## Files Navigation
 
->* [BlackFriday Analysis - Main Folder](https://github.com/pablojordan/BlackFriday_Study)
->* [Application File (app.py)](https://github.com/pablojordan/BlackFriday_Study/tree/master/BlackFriday_Analysis)
->* [Main HTML Index](https://github.com/pablojordan/BlackFriday_Study/tree/master/BlackFriday_Analysis/templates)
->* [Static Files (python/css/images)](https://github.com/pablojordan/BlackFriday_Study/tree/master/BlackFriday_Analysis/static)
->* [Data Files](https://github.com/pablojordan/BlackFriday_Study/tree/master/BlackFriday_Analysis/data)
+>* [BlackFriday Analysis - Main Folder](https://github.com/cmutd/BlackFriday_study)
+>* [Application File (app.py)](https://github.com/cmutd/BlackFriday_study/tree/main/BlackFriday_Analysis)
+>* [Main HTML Index](https://github.com/cmutd/BlackFriday_study/tree/main/BlackFriday_Analysis/templates)
+>* [Static Files (python/css/images)](https://github.com/cmutd/BlackFriday_study/tree/main/BlackFriday_Analysis/static)
+>* [Data Files](https://github.com/cmutd/BlackFriday_study/tree/main/BlackFriday_Analysis/data)
 
 
 ## Authors
